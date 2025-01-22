@@ -29,16 +29,16 @@ body {
 }
 
 .one {
-    font-size: 4.5rem;
+    font-size: 1rem;
 }
 
 .two {
-    font-size: 1.2rem;
+    font-size: 0.5rem;
     font-weight: lighter;
 }
 
 .three {
-    font-size: 3rem;
+    font-size: 1rem;
 }
 
 .four .text-box {
@@ -83,7 +83,7 @@ body {
 }
 
 .five .idea-5 {
-    font-size: 4rem;
+    font-size: 2rem;
 }
 
 .idea-5 span,
